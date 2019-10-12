@@ -38,7 +38,7 @@ document.getElementById('vsButton').addEventListener('click', function () {
 function setTweetButton(text) {
     $('#tweet-area').empty();
     twttr.widgets.createShareButton(
-        "https://qiita.com/lovesaemi/items/d4f296b6b1d5158d2fea",
+        "https://pmxdxd.github.io/vs0216/",
         document.getElementById("tweet-area"),
         {
             size: "large",
