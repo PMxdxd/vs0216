@@ -38,7 +38,7 @@ document.getElementById('vsButton').addEventListener('click', function () {
 function setTweetButton(text) {
     $('#tweet-area').empty();
     twttr.widgets.createShareButton(
-        "https://pmxdxd.github.io/vs0216/",
+        "https://pmxdxd.github.io/vs0216/vs",
         document.getElementById("tweet-area"),
         {
             size: "large",
